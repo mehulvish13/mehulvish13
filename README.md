@@ -111,7 +111,7 @@ Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
 ## 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehulvinodv"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://linkedin.com/in/mehul-vishwakarma13](https://linkedin.com/in/mehul-vishwakarma13)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/mehulvinodv"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:mehulvinodv@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
