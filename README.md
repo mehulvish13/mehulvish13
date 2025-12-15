@@ -20,14 +20,37 @@ As a core member of NexGen Devs, I'm actively participating in the Smart India H
 
 ## 🎓 Education
 
-**B.Tech in Artificial Intelligence & Machine Learning**  
+**B.Tech in Computer Science (Artificial Intelligence & Machine Learning)**  
 Shri Ram Institute of Technology, Jabalpur  
 Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal  
-📅 2023–2027 | 📈 CGPA: 9.6 (First Year)
+📅 2023–2027 | 📈 CGPA: 8.8
+
+**Senior Secondary (12th) – PCM**  
+Central Academy Higher Secondary School, Shahdol  
+📅 2022–2023 | 📈 Percentage: 91.8%
+
+**Secondary (10th)**  
+Spring Dales Higher Secondary School, Shahdol  
+📅 2020–2021 | 📈 Percentage: 81.6%
 
 ---
 
-## 🛠️ Skills
+## � Internship Experience
+
+**ML Developer Intern**  
+**AICTE – EduNet Foundation** | 4 Weeks
+
+Developed an ML-based irrigation decision support system using soil, moisture, and weather parameters. Deployed prototype using Streamlit for practical water planning.
+**[View Live Demo →](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/)**
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agriculture_Tech-00A67E?style=flat-square&logo=leaf&logoColor=white" />
+</p>
+
+---
+
+## �🛠️ Skills
 
 - **Programming:** Python, C++, Basic Java
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
@@ -38,20 +61,63 @@ Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **[AI Doctor – Your Virtual Health Assistant](https://github.com/mehulvinodv/ai-doctor)**  
-  Intelligent chatbot for first-level health triage using AI & NLP.
+### 🌾 AI-based Smart Irrigation System
+A machine learning system that helps farmers make efficient water usage decisions. Built to reduce water wastage and improve crop health using soil data, weather conditions, and predictive analytics.
 
-- **Swarm-Charger: Self-Governing Drone Swarms for EV Emergency Charging**  
-  Swarm intelligence and autonomous drone docking for EV support.  
-  *(Abstract submitted to IIT Guwahati Hackathon)*
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agriculture_Tech-00A67E?style=flat-square&logo=leaf&logoColor=white" />
+</p>
 
-- **[Fake News Detection System](https://github.com/mehulvinodv/fake-news-detector)**  
-  Detects misleading news using NLP and machine learning models.
+---
 
-- **[AI Chatbot with Prompt Engineering](https://mehul-chatbot.streamlit.app)**  
-  Smart assistant built using LangChain and custom prompts.
+### 🗺️ FRA Atlas – Digitization & Decision Support Platform
+A FastAPI + MySQL platform that automates tribal land claim processing. Uses OCR to extract data from documents and a rule-based engine to map beneficiaries to suitable government schemes.
+
+**[View Live Demo →](https://minor-project-am2.streamlit.app/)**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-FF6F00?style=flat-square&logo=tesseract&logoColor=white" />
+  <img src="https://img.shields.io/badge/GovTech-326CE5?style=flat-square&logo=government&logoColor=white" />
+</p>
+
+---
+
+### 💚 SehatSathi – Personal Health & Mental Fitness Assistant
+An assistant that combines physical health tracking and mental wellbeing monitoring. Includes calorie estimation, workout suggestions, stress scoring, mood analytics, and a conversational health guide.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Healthcare-DC143C?style=flat-square&logo=health&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mental_Health-9B59B6?style=flat-square&logo=brain&logoColor=white" />
+</p>
+
+---
+
+### 🏥 HealthAI Guardian
+An integrated chronic disease prediction system using ML, NLP, and sensor data. Supports symptom evaluation, personalized risk scores, and early-warning alerts.
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-25D366?style=flat-square&logo=natural-language-processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Sensors-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-DC143C?style=flat-square&logo=health&logoColor=white" />
+</p>
+
+
+
+
+
+
+
+
 
 ---
 
@@ -68,10 +134,33 @@ Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
 
 ## 🏆 Achievements
 
-- **Finalist/Winner:**  
-  - Smart India Hackathon 2024  
-  - HackSRIT 2025  
-  - SRIJAN Hackathon
+<table align="center">
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>NexGen Hack Ghaziabad 2025</b></td>
+    <td>Participated | Finalist (Shortlisted from 400 teams into final 30, Top 15 ranking)</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>VOID Hacks 7.0 Hackathon</b></td>
+    <td>Participated | Finalist (Shortlisted from 250+ teams into final 30)</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>Smart India Hackathon 2024</b></td>
+    <td>Participated | Finalist/Winner</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>HackSRIT 2025</b></td>
+    <td>Participated | Finalist/Winner</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>SRIJAN Hackathon</b></td>
+    <td>Participated | Finalist/Winner</td>
+  </tr>
+</table>
 
 ---
 
