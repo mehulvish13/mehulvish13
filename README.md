@@ -1,207 +1,317 @@
+![Mehul Vishwakarma — AI/ML Developer](banner.svg)
 
 # Mehul Vishwakarma
 
-**Aspiring AI/ML Developer | B.Tech in Artificial Intelligence & Machine Learning (2023–2027)**  
-Jabalpur, India  
-📧 Email: [mehulvinodv@gmail.com](mailto:mehulvinodv@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/mehulvinodv) | 💻 [GitHub](https://github.com/mehulvinodv)
+**AI/ML Developer | Python | Machine Learning | FastAPI | GenAI**
+B.Tech in Artificial Intelligence & Machine Learning · 2023–2027
+Jabalpur, India
+
+📧 [mehulvinodv@gmail.com](mailto:mehulvinodv@gmail.com) ·
+🔗 [LinkedIn](https://www.linkedin.com/in/mehulvishwakarma13) ·
+💻 [GitHub](https://github.com/mehulvish13) ·
+🌐 [Portfolio](https://mv13.netlify.app/) ·
+🐦 [X](https://x.com/MehulVish13)
+
+> Open to AI/ML internships, software roles, hackathons, and collaborative projects.
 
 ---
 
 ## 📄 About Me
 
-Hello! I'm Mehul, an enthusiastic and dedicated student specializing in Artificial Intelligence and Machine Learning (AIML) at Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal. My journey in tech began early and has evolved into a passion for building smart systems that solve real-world problems. I am particularly motivated by AI’s transformative potential in healthcare, finance, security, and beyond.
+I'm Mehul, a B.Tech student specializing in Artificial Intelligence and Machine Learning at Shri Ram Institute of Technology, Jabalpur.
 
-With a solid foundation in Data Structures, OOP, Probability & Statistics, and practical experience with Python, TensorFlow, and PyTorch, I enjoy developing and optimizing ML models on real-world data. My interests extend to prompt engineering, generative AI, and responsible AI development.
+I mainly work with **Python, machine learning, FastAPI, SQL, and GenAI**, and I enjoy turning ideas into working applications rather than stopping at model training. My projects have involved areas such as agriculture, document processing, healthcare, and personalized learning.
 
-As a core member of NexGen Devs, I'm actively participating in the Smart India Hackathon 2024, working on AI-powered solutions for security, fraud prevention, disaster management, and media authenticity. My academic journey is marked by a CGPA of 9.6 in the first year and a commitment to advanced AI topics—especially cybersecurity, fraud detection, and energy efficiency.
+As team leader of all my hackathon teams, I have led our teams at NexGen Hack Ghaziabad 2025 (Finalist — Top 15 out of 400 teams), VOID Hacks 7.0 (Finalist — Top 30 out of 250+ teams), and SRIJAN Hackathon (Participant). I've built and deployed ML prototypes and worked with APIs and databases. I'm currently focusing on strengthening my **DSA, SQL, backend development, and AI/ML fundamentals** while building projects that I can explain and defend technically.
+
+**CGPA: 8.65**
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Computer Science (Artificial Intelligence & Machine Learning)**  
-Shri Ram Institute of Technology, Jabalpur  
-Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal  
-📅 2023–2027 | 📈 CGPA: 8.8
+**B.Tech in Computer Science (Artificial Intelligence & Machine Learning)**
+Shri Ram Institute of Technology, Jabalpur
+Affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal
+2023–2027 · **CGPA: 8.65**
 
-**Senior Secondary (12th) – PCM**  
-Central Academy Higher Secondary School, Shahdol  
-📅 2022–2023 | 📈 Percentage: 91.8%
+**Senior Secondary (12th) – PCM**
+Central Academy Higher Secondary School, Shahdol
+2022–2023 · **91.8%**
 
-**Secondary (10th)**  
-Spring Dales Higher Secondary School, Shahdol  
-📅 2020–2021 | 📈 Percentage: 81.6%
+**Secondary (10th)**
+Spring Dales Higher Secondary School, Shahdol
+2020–2021 · **81.6%**
 
 ---
 
-## � Internship Experience
+## 💼 Internship Experience
 
-**ML Developer Intern**  
-**AICTE – EduNet Foundation** | 4 Weeks
+### ML Developer Intern
 
-Developed an ML-based irrigation decision support system using soil, moisture, and weather parameters. Deployed prototype using Streamlit for practical water planning.
-**[View Live Demo →](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/)**
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agriculture_Tech-00A67E?style=flat-square&logo=leaf&logoColor=white" />
+**AICTE & EduNet Foundation · 4 Weeks**
+
+Worked on an ML-based smart irrigation system that uses soil, moisture, and environmental inputs to recommend irrigation actions.
+
+* Built the prediction pipeline using **Python and Scikit-learn**.
+* Worked with multiple sensor and environmental inputs to generate irrigation decisions.
+* Developed a **Streamlit interface** to make the model usable as a simple decision-support tool.
+* Prepared the project for demonstration and practical testing.
+
+🔗 [Live Demo](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/) · [Source Code](https://github.com/mehulvish13/smart-irrigation-mv)
+
+---
+
+## 🧑‍💼 Experience & Leadership
+
+* **Google Developer Group SRIT — Volunteer (2024–Present)**
+  Help with AI and cybersecurity workshops, peer learning sessions, and technical activities.
+
+* **NexGen Devs — Core Member, AI Projects Team**
+  Work with student teams on AI-focused projects and hackathons.
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.com/icons?i=python,fastapi,mysql,tensorflow,pytorch,git,github" alt="Tech stack" />
 </p>
 
----
+**Programming:**
+Python, SQL, C++
 
-## �🛠️ Skills
+**AI / Machine Learning:**
+Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib
 
-- **Programming:** Python, C++, Basic Java
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data & Visualization:** Pandas, NumPy, Matplotlib
-- **Web/Backend:** Flask, Django, PHP, MySQL
-- **Tools:** Jupyter Notebook, Streamlit, Anvil, MLflow, Weights & Biases
-- **Other:** Prompt Engineering, Generative AI, Arduino, RF Modules, Cisco Packet Tracer
+**Backend & Applications:**
+FastAPI, Flask, Django, Streamlit
+
+**Databases & Tools:**
+MySQL, Git, GitHub, Jupyter
+
+**GenAI:**
+LLM applications, Prompt Engineering, RAG fundamentals
+
+**Currently Learning:**
+C#, .NET, ASP.NET Core, OOP, REST APIs
+
+**Familiar With:**
+Java, PHP, Arduino, Cisco Packet Tracer, MLflow, Weights & Biases
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 AI-based Smart Irrigation System
-A machine learning system that helps farmers make efficient water usage decisions. Built to reduce water wastage and improve crop health using soil data, weather conditions, and predictive analytics.
+### 🧭 PathFinder – AI-Powered Personalized Learning Path Recommender
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agriculture_Tech-00A67E?style=flat-square&logo=leaf&logoColor=white" />
-</p>
+A learning-path system that helps a user identify skill gaps for a target career and turn them into a structured learning roadmap.
+
+The system takes a learner's profile and target career, compares their current skills with the required skills, considers prerequisite relationships, and generates a personalized roadmap.
+
+**Flow:**
+`Learner Profile → Skill Extraction → Skill Gap Analysis → Prerequisites → Roadmap Generation → Progress Tracking`
+
+**Stack:** FastAPI, Python, SQL, LLM, Qdrant
+
+**What I worked on:**
+
+* Designed career, skill, and prerequisite data models.
+* Built APIs for learner profiles and career paths.
+* Implemented skill-gap analysis between current and target skills.
+* Added prerequisite relationships to improve the order of recommended skills.
+* Built the roadmap generation flow for personalized learning plans.
+
+**Architecture:**
+
+```
+                 PATHFINDER
+                     │
+         ┌───────────┴───────────┐
+         ↓                       ↓
+   Learner Profile          Target Career
+         │                       │
+         └───────────┬───────────┘
+                     ↓
+              Skill Extraction
+                     ↓
+              Skill Gap Analysis
+                     ↓
+             Prerequisite Graph
+                     ↓
+             Roadmap Generator
+                     ↓
+          Personalized Learning Path
+                     ↓
+              Progress Tracking
+```
+
+<!-- Preview: add 1-3 screenshots here (input screen, generated roadmap, progress view) -->
+
+🔗 [Source Code](https://github.com/mehulvish13/PathFinder)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
 ### 🗺️ FRA Atlas – Digitization & Decision Support Platform
-A FastAPI + MySQL platform that automates tribal land claim processing. Uses OCR to extract data from documents and a rule-based engine to map beneficiaries to suitable government schemes.
 
-**[View Live Demo →](https://minor-project-am2.streamlit.app/)**
+A web application built to simplify the processing of Forest Rights Act (FRA) land claims by digitizing document information and helping map beneficiaries to relevant government schemes.
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-FF6F00?style=flat-square&logo=tesseract&logoColor=white" />
-  <img src="https://img.shields.io/badge/GovTech-326CE5?style=flat-square&logo=government&logoColor=white" />
-</p>
+I built the backend using **FastAPI and MySQL**, with OCR used to extract information from uploaded documents. A rule-based layer then uses the extracted information to identify suitable scheme options.
 
----
+**Flow:**
 
-### 💚 SehatSathi – Personal Health & Mental Fitness Assistant
-An assistant that combines physical health tracking and mental wellbeing monitoring. Includes calorie estimation, workout suggestions, stress scoring, mood analytics, and a conversational health guide.
+`Document → OCR → Extracted Data → Rule Engine → Scheme Mapping`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Healthcare-DC143C?style=flat-square&logo=health&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mental_Health-9B59B6?style=flat-square&logo=brain&logoColor=white" />
-</p>
+```
+Document
+   ↓
+OCR
+   ↓
+Extracted Information
+   ↓
+Validation
+   ↓
+Rule Engine
+   ↓
+Government Scheme Mapping
+```
 
----
+<!-- Preview: add 1-2 screenshots here (upload screen, scheme mapping result) -->
 
-### 🏥 HealthAI Guardian
-An integrated chronic disease prediction system using ML, NLP, and sensor data. Supports symptom evaluation, personalized risk scores, and early-warning alerts.
+**Stack:** FastAPI, MySQL, Tesseract OCR, Streamlit
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-25D366?style=flat-square&logo=natural-language-processing&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT_Sensors-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Healthcare_AI-DC143C?style=flat-square&logo=health&logoColor=white" />
-</p>
+**What it demonstrates:**
 
+* REST API development
+* Database integration
+* OCR-based document processing
+* Rule-based decision logic
+* Connecting backend services with a simple frontend
 
+🔗 [Live Demo](https://minor-project-am2.streamlit.app/) · [More Projects](https://github.com/mehulvish13?tab=repositories)
 
-
-
-
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
-## 🏅 Certifications
+### 🌾 AI-based Smart Irrigation System
 
-- [Deloitte Australia Data Analytics Job Simulation (Forage, 06/2025)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_yMSzRLqCKNkJGYm9k_1749615695464_completion_certificate.pdf)
-- [CyberOps Associate (Cisco, 05/2025)](https://www.credly.com/badges/83d56cef-8fb3-44b1-ab8c-67bf1a31243d/linked_in_profile)
-- [Python Essentials 1 (Cisco, 02/2025)](https://www.credly.com/badges/85ecfcea-5bf4-41d7-ba91-b495c2a93c99/linked_in_profile)
-- [Junior Cybersecurity Analyst Career Path (Cisco, 01/2025)](https://www.credly.com/badges/e21755f0-19a4-4535-bfb8-775ab2b92f31/linked_in_profile)
-- [Artificial Intelligence Fundamentals (IBM, 12/2024)](https://www.credly.com/badges/ef8ca76c-a308-4a1f-8e90-a6f471888eb1/linked_in_profile)
-- [Cybersecurity Essentials (Cisco, 12/2023)](https://www.credly.com/badges/76d8471f-559a-49dc-a994-0d7dd3f6a6de/linked_in_profile)
+A machine learning-based irrigation decision-support system that uses soil, moisture, and environmental inputs to recommend suitable irrigation actions.
+
+The model was built in Python using Scikit-learn and exposed through a Streamlit application so the predictions could be tested through a simple interface.
+
+**Flow:**
+`Sensor / Environmental Inputs → ML Model → Irrigation Recommendation`
+
+```
+Soil + Moisture + Weather
+            ↓
+        ML Model
+            ↓
+   Irrigation Decision
+            ↓
+       Streamlit UI
+```
+
+<!-- Preview: add 1-2 screenshots here (input dashboard, recommendation output) -->
+
+**Stack:** Python, Scikit-learn, Streamlit
+
+**Outcome:** Working ML decision-support prototype for irrigation planning.
+
+🔗 [Live Demo](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/) · [Source Code](https://github.com/mehulvish13/smart-irrigation-mv)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+---
+
+### 🏥 HealthAI Guardian – Health Risk Assessment Prototype
+
+A hackathon prototype exploring how machine learning, NLP, and sensor data can be combined for basic health-risk assessment.
+
+The project accepts symptom-related information and other inputs, processes them using ML-based components, and presents the resulting risk assessment through the application.
+
+**Stack:** Python, Scikit-learn, NLP, Arduino / IoT
+
+**Features:**
+
+* Symptom-based assessment
+* Risk scoring
+* Sensor-data integration
+* Early-warning prototype
+
+🔗 [Source Code](https://github.com/mehulvish13/HealthAI-Guardian--void-hacks7.0) · [Portfolio](https://mv13.netlify.app/)
+
+---
+
+### 💚 SehatSathi – Personal Health & Fitness Assistant
+
+A student project that combines basic health and fitness tracking with ML-based analysis and a conversational interface.
+
+The project explores features such as calorie estimation, workout suggestions, mood and stress-related inputs, and a simple health assistant.
+
+**Stack:** Python, ML, Health Analytics
+
+**Features:**
+
+* Calorie estimation
+* Workout suggestions
+* Basic mood and stress analysis
+* Conversational health assistant
+
+🔗 [Portfolio](https://mv13.netlify.app/) · [All Repositories](https://github.com/mehulvish13?tab=repositories)
+
+---
+
+## 🧪 Live Demos
+
+* 🌾 [Smart Irrigation](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/) — ML-based irrigation decision support
+* 🗺️ [FRA Atlas](https://minor-project-am2.streamlit.app/) — OCR and rule-based scheme mapping prototype
+* 🧠 [Portfolio Projects](https://mv13.netlify.app/#projects) — More projects and experiments
 
 ---
 
 ## 🏆 Achievements
 
-<table align="center">
-  <tr>
-    <td align="center">🏅</td>
-    <td><b>NexGen Hack Ghaziabad 2025</b></td>
-    <td>Participated | Finalist (Shortlisted from 400 teams into final 30, Top 15 ranking)</td>
-  </tr>
-  <tr>
-    <td align="center">🏅</td>
-    <td><b>VOID Hacks 7.0 Hackathon</b></td>
-    <td>Participated | Finalist (Shortlisted from 250+ teams into final 30)</td>
-  </tr>
-  <tr>
-    <td align="center">🏅</td>
-    <td><b>Smart India Hackathon 2024</b></td>
-    <td>Participated | Finalist/Winner</td>
-  </tr>
-  <tr>
-    <td align="center">🏅</td>
-    <td><b>HackSRIT 2025</b></td>
-    <td>Participated | Finalist/Winner</td>
-  </tr>
-  <tr>
-    <td align="center">🏅</td>
-    <td><b>SRIJAN Hackathon</b></td>
-    <td>Participated | Finalist/Winner</td>
-  </tr>
-</table>
+| Hackathon | Result |
+| ------------------------------ | ------------------------------ |
+| **NexGen Hack Ghaziabad 2025** | Finalist, Top 15 of 400 teams |
+| **VOID Hacks 7.0** | Finalist, Top 30 of 250+ teams |
+| **SRIJAN Hackathon** | Participant |
 
 ---
 
-## 🤝 Community & Volunteering
+## 🏅 Certifications
 
-- **Education Volunteer** – Google Developer Group SRIT
-- **AI & Cybersecurity Volunteer** – Google Developer Group SRIT
-- **Core Member** – NexGen Devs (AI Projects Team)
-- **Hackathon Teams:** Smart India Hackathon, HackSRIT, SRIJAN Hackathon
-
----
-
-## 🌍 Languages
-
-- **English:** Professional  
-- **Hindi:** Professional
+* [Deloitte Australia Data Analytics Job Simulation – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_yMSzRLqCKNkJGYm9k_1749615695464_completion_certificate.pdf)
+* [CyberOps Associate – Cisco](https://www.credly.com/badges/83d56cef-8fb3-44b1-ab8c-67bf1a31243d/linked_in_profile)
+* [Python Essentials 1 – Cisco](https://www.credly.com/badges/85ecfcea-5bf4-41d7-ba91-b495c2a93c99/linked_in_profile)
+* [Junior Cybersecurity Analyst Career Path – Cisco](https://www.credly.com/badges/e21755f0-19a4-4535-bfb8-775ab2b92f31/linked_in_profile)
+* [Artificial Intelligence Fundamentals – IBM](https://www.credly.com/badges/ef8ca76c-a308-4a1f-8e90-a6f471888eb1/linked_in_profile)
+* [Cybersecurity Essentials – Cisco](https://www.credly.com/badges/76d8471f-559a-49dc-a994-0d7dd3f6a6de/linked_in_profile)
 
 ---
 
-## 💡 Motto
+## 📊 GitHub Stats
 
-> “Curiosity fuels innovation, and persistence builds expertise.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulvish13&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulvish13&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulvish13&theme=default" alt="GitHub Streak" />
+</p>
 
 ---
-
-
 
 ## 📄 Resume
 
-<p align="center">
-  <a href="resume_MV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge" alt="Download Resume" />
-  </a>
-</p>
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge)](resume_MV.pdf)
 
 ---
 
-## 🔗 Let's Connect!
+## 🔗 Let's Connect
 
-<p align="center">
-  <a href="[https://linkedin.com/in/mehul-vishwakarma13](https://linkedin.com/in/mehul-vishwakarma13)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/mehulvinodv"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:mehulvinodv@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+I'm always open to discussing AI/ML projects, hackathons, internships, and interesting technical ideas.
+
+[LinkedIn](https://www.linkedin.com/in/mehulvishwakarma13) · [GitHub](https://github.com/mehulvish13) · [Portfolio](https://mv13.netlify.app/) · [Email](mailto:mehulvinodv@gmail.com)
