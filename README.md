@@ -1,6 +1,10 @@
-![Mehul Vishwakarma — AI/ML Developer](banner.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=180&section=header&text=Mehul%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20GenAI&descAlignY=55&descSize=16" width="100%" alt="Mehul Vishwakarma header banner" />
 
 # Mehul Vishwakarma
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Python+%7C+FastAPI+%7C+MySQL;GenAI+%7C+LLMs+%7C+RAG;2x+Hackathon+Finalist" alt="Roles typing animation" />
+</p>
 
 **AI/ML Developer | Python | Machine Learning | FastAPI | GenAI**
 B.Tech in Artificial Intelligence & Machine Learning · 2023–2027
@@ -18,13 +22,11 @@ Jabalpur, India
 
 ## 📄 About Me
 
-I'm Mehul, a B.Tech student specializing in Artificial Intelligence and Machine Learning at Shri Ram Institute of Technology, Jabalpur.
-
-I mainly work with **Python, machine learning, FastAPI, SQL, and GenAI**, and I enjoy turning ideas into working applications rather than stopping at model training. My projects have involved areas such as agriculture, document processing, healthcare, and personalized learning.
-
-As team leader of all my hackathon teams, I have led our teams at NexGen Hack Ghaziabad 2025 (Finalist — Top 15 out of 400 teams), VOID Hacks 7.0 (Finalist — Top 30 out of 250+ teams), and SRIJAN Hackathon (Participant). I've built and deployed ML prototypes and worked with APIs and databases. I'm currently focusing on strengthening my **DSA, SQL, backend development, and AI/ML fundamentals** while building projects that I can explain and defend technically.
-
-**CGPA: 8.65**
+- B.Tech student in Artificial Intelligence & Machine Learning at Shri Ram Institute of Technology, Jabalpur (2023–2027, CGPA 8.65)
+- Mainly work with **Python, Scikit-learn, FastAPI, SQL, and GenAI** — focus on turning ideas into working, deployed apps, not just notebooks
+- Project areas: agriculture, document processing, healthcare, personalized learning
+- Hackathons: led my teams at NexGen Hack Ghaziabad 2025 (Finalist, Top 15/400) and VOID Hacks 7.0 (Finalist, Top 30/250+); participant at SRIJAN
+- Currently strengthening **DSA, SQL, backend development, and AI/ML fundamentals**
 
 ---
 
@@ -74,30 +76,18 @@ Worked on an ML-based smart irrigation system that uses soil, moisture, and envi
 
 ## 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.com/icons?i=python,fastapi,mysql,tensorflow,pytorch,git,github" alt="Tech stack" />
-</p>
+## 🛠️ Technical Skills
 
-**Programming:**
-Python, SQL, C++
-
-**AI / Machine Learning:**
-Scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib
-
-**Backend & Applications:**
-FastAPI, Flask, Django, Streamlit
-
-**Databases & Tools:**
-MySQL, Git, GitHub, Jupyter
-
-**GenAI:**
-LLM applications, Prompt Engineering, RAG fundamentals
-
-**Currently Learning:**
-C#, .NET, ASP.NET Core, OOP, REST APIs
-
-**Familiar With:**
-Java, PHP, Arduino, Cisco Packet Tracer, MLflow, Weights & Biases
+| Category | Technologies & Tools |
+|---|---|
+| **Languages & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square) |
+| **AI / ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
+| **GenAI** | ![LLM Apps](https://img.shields.io/badge/LLM_Apps-2EA44F?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-34A047?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-00A4C1?style=flat-square) |
+| **Databases & UI** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Learning now** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square) |
+| **Familiar (basic)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square) ![Weights and Biases](https://img.shields.io/badge/Weights_and_Biases-FFCC33?style=flat-square) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square) |
+| **Core CS** | OOP, Data Structures, Probability & Statistics |
 
 ---
 
@@ -105,142 +95,51 @@ Java, PHP, Arduino, Cisco Packet Tracer, MLflow, Weights & Biases
 
 ### 🧭 PathFinder – AI-Powered Personalized Learning Path Recommender
 
-A learning-path system that helps a user identify skill gaps for a target career and turn them into a structured learning roadmap.
+> Turns a learner's profile and target career into a structured, prerequisite-ordered learning roadmap.
 
-The system takes a learner's profile and target career, compares their current skills with the required skills, considers prerequisite relationships, and generates a personalized roadmap.
+- **Skill-gap engine**: Compares current skills against target-career requirements and orders missing skills via prerequisite relationships.
+- **Backend & APIs**: FastAPI services for learner profiles and career paths, with Python/SQL data models and LLM-assisted skill extraction; Qdrant used for vector-side retrieval.
 
-**Flow:**
-`Learner Profile → Skill Extraction → Skill Gap Analysis → Prerequisites → Roadmap Generation → Progress Tracking`
-
-**Stack:** FastAPI, Python, SQL, LLM, Qdrant
-
-**What I worked on:**
-
-* Designed career, skill, and prerequisite data models.
-* Built APIs for learner profiles and career paths.
-* Implemented skill-gap analysis between current and target skills.
-* Added prerequisite relationships to improve the order of recommended skills.
-* Built the roadmap generation flow for personalized learning plans.
-
-**Architecture:**
-
-```
-                 PATHFINDER
-                     │
-         ┌───────────┴───────────┐
-         ↓                       ↓
-   Learner Profile          Target Career
-         │                       │
-         └───────────┬───────────┘
-                     ↓
-              Skill Extraction
-                     ↓
-              Skill Gap Analysis
-                     ↓
-             Prerequisite Graph
-                     ↓
-             Roadmap Generator
-                     ↓
-          Personalized Learning Path
-                     ↓
-              Progress Tracking
-```
-
-<!-- Preview: add 1-3 screenshots here (input screen, generated roadmap, progress view) -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-2EA44F?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-EA3D51?style=flat-square)
 
 🔗 [Source Code](https://github.com/mehulvish13/PathFinder)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
 ### 🗺️ FRA Atlas – Digitization & Decision Support Platform
 
-A web application built to simplify the processing of Forest Rights Act (FRA) land claims by digitizing document information and helping map beneficiaries to relevant government schemes.
+> Digitizes Forest Rights Act land-claim documents and maps beneficiaries to relevant government schemes.
 
-I built the backend using **FastAPI and MySQL**, with OCR used to extract information from uploaded documents. A rule-based layer then uses the extracted information to identify suitable scheme options.
+- **OCR & extraction**: Tesseract OCR pulls structured information from uploaded claim documents into a validated MySQL store behind a FastAPI backend.
+- **Rule-based mapping**: A decision layer matches extracted beneficiary data against scheme eligibility rules; Streamlit serves the demo frontend.
 
-**Flow:**
-
-`Document → OCR → Extracted Data → Rule Engine → Scheme Mapping`
-
-```
-Document
-   ↓
-OCR
-   ↓
-Extracted Information
-   ↓
-Validation
-   ↓
-Rule Engine
-   ↓
-Government Scheme Mapping
-```
-
-<!-- Preview: add 1-2 screenshots here (upload screen, scheme mapping result) -->
-
-**Stack:** FastAPI, MySQL, Tesseract OCR, Streamlit
-
-**What it demonstrates:**
-
-* REST API development
-* Database integration
-* OCR-based document processing
-* Rule-based decision logic
-* Connecting backend services with a simple frontend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square)
 
 🔗 [Live Demo](https://minor-project-am2.streamlit.app/) · [More Projects](https://github.com/mehulvish13?tab=repositories)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
 ### 🌾 AI-based Smart Irrigation System
 
-A machine learning-based irrigation decision-support system that uses soil, moisture, and environmental inputs to recommend suitable irrigation actions.
+> Recommends irrigation actions from soil, moisture, and weather inputs to cut water waste and protect crop health.
 
-The model was built in Python using Scikit-learn and exposed through a Streamlit application so the predictions could be tested through a simple interface.
+- **ML pipeline**: Scikit-learn model trained on sensor and environmental features, built during the AICTE & EduNet internship.
+- **Decision-support UI**: Streamlit app exposes predictions through a simple interface for field-level testing.
 
-**Flow:**
-`Sensor / Environmental Inputs → ML Model → Irrigation Recommendation`
-
-```
-Soil + Moisture + Weather
-            ↓
-        ML Model
-            ↓
-   Irrigation Decision
-            ↓
-       Streamlit UI
-```
-
-<!-- Preview: add 1-2 screenshots here (input dashboard, recommendation output) -->
-
-**Stack:** Python, Scikit-learn, Streamlit
-
-**Outcome:** Working ML decision-support prototype for irrigation planning.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 🔗 [Live Demo](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/) · [Source Code](https://github.com/mehulvish13/smart-irrigation-mv)
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
 ### 🏥 HealthAI Guardian – Health Risk Assessment Prototype
 
-A hackathon prototype exploring how machine learning, NLP, and sensor data can be combined for basic health-risk assessment.
+> Hackathon prototype combining ML, NLP, and sensor data for basic health-risk assessment.
 
-The project accepts symptom-related information and other inputs, processes them using ML-based components, and presents the resulting risk assessment through the application.
+- **Risk engine**: Symptom inputs processed by Scikit-learn components with NLP handling, producing risk scores and early-warning signals.
+- **Sensor integration**: Arduino/IoT inputs explored as an additional data source for the assessment flow.
 
-**Stack:** Python, Scikit-learn, NLP, Arduino / IoT
-
-**Features:**
-
-* Symptom-based assessment
-* Risk scoring
-* Sensor-data integration
-* Early-warning prototype
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 
 🔗 [Source Code](https://github.com/mehulvish13/HealthAI-Guardian--void-hacks7.0) · [Portfolio](https://mv13.netlify.app/)
 
@@ -248,28 +147,14 @@ The project accepts symptom-related information and other inputs, processes them
 
 ### 💚 SehatSathi – Personal Health & Fitness Assistant
 
-A student project that combines basic health and fitness tracking with ML-based analysis and a conversational interface.
+> Student project combining fitness tracking with ML-based analysis and a conversational health assistant.
 
-The project explores features such as calorie estimation, workout suggestions, mood and stress-related inputs, and a simple health assistant.
+- **Tracking & analysis**: Calorie estimation, workout suggestions, and basic mood/stress analysis.
+- **Assistant interface**: Conversational layer for simple health guidance.
 
-**Stack:** Python, ML, Health Analytics
-
-**Features:**
-
-* Calorie estimation
-* Workout suggestions
-* Basic mood and stress analysis
-* Conversational health assistant
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square)
 
 🔗 [Portfolio](https://mv13.netlify.app/) · [All Repositories](https://github.com/mehulvish13?tab=repositories)
-
----
-
-## 🧪 Live Demos
-
-* 🌾 [Smart Irrigation](https://mehulvish13-smart-irrigation-aicte-shell-app-ire8ba.streamlit.app/) — ML-based irrigation decision support
-* 🗺️ [FRA Atlas](https://minor-project-am2.streamlit.app/) — OCR and rule-based scheme mapping prototype
-* 🧠 [Portfolio Projects](https://mv13.netlify.app/#projects) — More projects and experiments
 
 ---
 
@@ -299,7 +184,11 @@ The project explores features such as calorie estimation, workout suggestions, m
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehulvish13&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulvish13&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulvish13&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mehulvish13&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulvish13&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 ---
