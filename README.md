@@ -13,7 +13,7 @@ Jabalpur, India
 📧 [mehulvinodv@gmail.com](mailto:mehulvinodv@gmail.com) ·
 🔗 [LinkedIn](https://www.linkedin.com/in/mehulvishwakarma13) ·
 💻 [GitHub](https://github.com/mehulvish13) ·
-🌐 [Portfolio](https://mv13.netlify.app/) ·
+🌐 [Portfolio](https://mehulvishwakarma.vercel.app/) ·
 🐦 [X](https://x.com/MehulVish13)
 
 > Open to AI/ML internships, software roles, hackathons, and collaborative projects.
@@ -195,7 +195,7 @@ Worked on an ML-based smart irrigation system that uses soil, moisture, and envi
 
 ## 📄 Resume
 
-[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge)](resume_MV.pdf)
+[![View Resume](https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge)]([resume_MV.pdf](https://mehulvishwakarma.vercel.app/))
 
 ---
 
@@ -203,4 +203,4 @@ Worked on an ML-based smart irrigation system that uses soil, moisture, and envi
 
 I'm always open to discussing AI/ML projects, hackathons, internships, and interesting technical ideas.
 
-[LinkedIn](https://www.linkedin.com/in/mehulvishwakarma13) · [GitHub](https://github.com/mehulvish13) · [Portfolio](https://mv13.netlify.app/) · [Email](mailto:mehulvinodv@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mehulvishwakarma13) · [GitHub](https://github.com/mehulvish13) · [Portfolio](https://mehulvishwakarma.vercel.app/) · [Email](mailto:mehulvinodv@gmail.com)
