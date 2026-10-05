@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220">
+  <rect width="1000" height="220" fill="#0D1117"/>
+  <text x="500" y="88" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="bold" letter-spacing="4" fill="#F0F6FC" text-anchor="middle">MEHUL VISHWAKARMA</text>
+  <text x="500" y="128" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#58A6FF" text-anchor="middle">AI/ML &#8226; Python &#8226; FastAPI &#8226; GenAI</text>
+  <text x="500" y="164" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#8B949E" text-anchor="middle">Building practical AI systems, one project at a time</text>
+</svg>
